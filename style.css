@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin:0;
+    background-color: #ede1bb;
+}
+
+h1{
+    font-size: 3em;
+    color: red;
+    font-weight: 900;
+}
+img{
+    width: 30%;
+}
